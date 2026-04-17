@@ -1,0 +1,4 @@
+ram 40
+sam 50
+shyam 60
+man 70
